@@ -6,14 +6,9 @@ I have used the firebase realtime database's REST API for managing all the backe
 Once the payment is successful your regestration is completed.
 After completing this project I have deployed it on Netlify which is a remote-first cloud computing company that offers a development platform that includes build, deploy, and serverless backend services for web applications and dynamic websites.
 
-## Source Code
-GitHub : https://github.com/susverma/AdmissionForm
-
 ## Database
 Firebase Realtime Database
 
-## Deployment
-Netlify : https://admissionform-yoga-classes.netlify.app/
 
 ## FlowChart
 ```mermaid
